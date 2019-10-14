@@ -1,6 +1,4 @@
-policy "working-hours" {
-  enforcement_level = "advisory"
-}
+
 
 policy "change-window-hours" {
   enforcement_level = "soft-mandatory"
